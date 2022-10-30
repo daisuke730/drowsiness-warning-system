@@ -3,14 +3,15 @@ Pythonを使った居眠り警告システム
 ・実行画面
 
 1,コマンドを実行し目を認識し目の周りをを赤枠で表示させます。
-https://ptera-publish.topaz.dev/project/01G5X3V06HZJ5C4XGQV605X5BJ.png
+![image](https://user-images.githubusercontent.com/89437189/198872234-8ec665bd-a50c-41de-86ec-57d09cba61c0.png)
+
 
 
 2,目を閉じると赤枠が表示されなくなります
-https://ptera-publish.topaz.dev/project/01G5X3YTFKPQWDG3HEC7H2QHB8.png
+![image](https://user-images.githubusercontent.com/89437189/198872244-2f033c9b-0905-401d-8813-666776f35725.png)
 
 3,赤枠が３秒以上表示されなくなると警告音と「Warn do not sleep!!」という文字が出ます。
-https://ptera-publish.topaz.dev/project/01G5X46A0JC8Q4Z7A1HXX5X578.png
+![image](https://user-images.githubusercontent.com/89437189/198872253-b0db3beb-d955-449a-a46e-d403dffdacf5.png)
 
 困ったところ
 
